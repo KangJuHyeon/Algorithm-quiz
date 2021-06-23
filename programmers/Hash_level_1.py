@@ -8,7 +8,7 @@ def solution(participant, completion):
 
     for com in completion:  # 완주자들의 리스트
         temp -= hash(com)	# 완주자들의 이름의 해시값들을 temp에서 빼준다.
-    answer = dic[temp]		# 그렇다면 temp에는 하나의 이름에 대한 해시값을 갖게 된다.
+        answer = dic[temp]		# 그렇다면 temp에는 하나의 이름에 대한 해시값을 갖게 된다.
 
     return answer
 
