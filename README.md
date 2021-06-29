@@ -9,3 +9,4 @@ This repository is for uploading algorithm quiz I solved.
 ### 2. Hash
    * [완주하지못한선수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42576.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42576, "Programmers Link")
    * [전화번호 목록](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42577.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42577, "Programmers Link")
+   * [위장](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42578.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42578, "Programmers Link")
