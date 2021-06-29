@@ -9,7 +9,9 @@ def solution(clothes):
             hash_map[key].append(value)
         else:
             hash_map[key] = [value]
-
+        # ex) output: {'headgear': ['yellow_hat', 'green_turban'], 'eyewear': ['blue_sunglasses']}
+        # 위와 같이 딕셔너리가 만들어진다.
+        
     for key in hash_map.keys():
         answer = answer * (len(hash_map[key])+ 1)
 
