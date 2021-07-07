@@ -15,5 +15,4 @@ def solution(phone_book):
             if temp in hash_map and temp != phone_number:
                 answer = False
                 
-    print(hash_map)
     return answer
