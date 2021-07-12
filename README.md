@@ -9,6 +9,7 @@ This repository is for uploading algorithm quiz I solved.
    * [수박수박수박수박수?](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12922.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12922, "Programmers Link")
    * [문자열 내 p와 y의 개수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12916.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12916, "Programmers Link")
    * [문자열 내 마음대로 정렬하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12915.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12915, "Programmers Link")
+   * [약수의 개수와 덧셈](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/77884.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/77884, "Programmers Link")
    * [최대공약수와 최소공배수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12940.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12940, "Programmers Link")
    * [이상한 문자 만들기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12930.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12930, "Programmers Link")
 ### 2. Stack/Queue
