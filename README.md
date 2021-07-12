@@ -8,6 +8,7 @@ This repository is for uploading algorithm quiz I solved.
    * [문자열을 정수로 바꾸기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12925.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12925, "Programmers Link")
    * [수박수박수박수박수?](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12922.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12922, "Programmers Link")
    * [문자열 내 p와 y의 개수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12916.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12916, "Programmers Link")
+   * [직사각형 별찍기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12969.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12969, "Programmers Link")
    * [문자열 내 마음대로 정렬하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12915.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12915, "Programmers Link")
    * [약수의 개수와 덧셈](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/77884.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/77884, "Programmers Link")
    * [최대공약수와 최소공배수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12940.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12940, "Programmers Link")
