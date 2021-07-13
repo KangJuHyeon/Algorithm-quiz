@@ -1,13 +1,12 @@
-answer = 0
+s = input()
 
-for i in range(13, 18):
-    cnt = 0
-    for j in range(1, i+1):
-        if i % j == 0:
-            cnt += 1
-    if cnt % 2 == 0:
-        answer += i
-    else:
-        answer -= i
+if len(s) % 2 == 0:
+    print(s[int(len(s) // 2 - 1) : int(len(s) // 2 + 1)])
+else:
+    print(s[int(len(s) // 2)])
 
-    print(answer)
+print(8 // 2 -1)
+
+# 8 / 2 - 1 = 3.5
+# 8 / 2 + 1 = 4.5 
+# "abcdefgh" => "de" 숫자 8이 들어가고, 4,5번째 숫자가 나오는 것을 보면 자동(기본) 올림 처리가 되어서 값이 나온다.
