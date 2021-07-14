@@ -11,6 +11,7 @@ This repository is for uploading algorithm quiz I solved.
    * [직사각형 별찍기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12969.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12969, "Programmers Link")
    * [평균 구하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12944.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12944, "Programmers Link")
    * [가운데 글자 가져오기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12903.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12903, "Programmers Link")
+   * [핸드폰 번호 가리기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12948.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12948, "Programmers Link")
    * [문자열 내 마음대로 정렬하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12915.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12915, "Programmers Link")
    * [약수의 개수와 덧셈](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/77884.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/77884, "Programmers Link")
    * [최대공약수와 최소공배수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12940.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12940, "Programmers Link")
