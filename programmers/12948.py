@@ -40,3 +40,14 @@ def solution(phone_number): # 010 3333 4444
 
 # 1. 전화번호 길이를 구하고, 뒷 자리 4개를 빼고는 변환할 것이니, 전화번호 길이 -4 의 값 만큼 *으로 변환해준다.
 # 2. 그 다음 전화번호 뒷 자리 4자리를 -4 인덱스를 활용하여 잘라 붙이면 답이 나온다.
+
+
+# 지인이 고쳐준 코드
+def solution(phone_number):
+    
+    answer = ''
+    for i in range(len(phone_number) - 4):
+        answer = phone_number[i].replace(phone_number[i], "*")
+        answer += phone_number[-4:]
+
+    return answer
