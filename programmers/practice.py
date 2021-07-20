@@ -1,11 +1,11 @@
-# s = input()
-phone_number = ["01033334444", "0233338888"]
-result = []
-    
-for i in range(len(phone_number) - 4): 
-    result.append('*') # [*******]
+# zip 함수 연습하기 1차배열
+arr1 = [1, 2, 3, 4, 5, 6]
+arr2 = [6, 5, 4, 3, 2, 1]
+print([a + b for a, b in zip(arr1, arr2)])
+# [7, 7, 7, 7, 7, 7]
 
-for i in range(4): # i = 3 phone_number[10]
-    result.append(phone_number[i + len(phone_number)- 4])  
-
-print("".join(result))
+# 2차배열
+arr1 = [[1, 2, 3], [4, 5, 6]]
+arr2 = [[6, 5, 4], [3, 2, 1]]
+print([[x + y for x, y in zip(a, b)] for a, b in zip(arr1, arr2)])
+# [[7, 7, 7], [7, 7, 7]]
