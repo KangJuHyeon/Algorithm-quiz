@@ -17,7 +17,7 @@ This repository is for uploading algorithm quiz I solved.
    * [제일 작은 수 제거하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12935.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12935, "Programmers Link")
    * [자릿수 더하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12931.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12931, "Programmers Link")
    * [같은 숫자는 싫어](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12906.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12906, "Programmers Link")
-   * [두 정수 사이의 합]() : [문제](https://programmers.co.kr/learn/courses/30/lessons/12912, "Programmers Link")
+   * [두 정수 사이의 합](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12912.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12912, "Programmers Link")
    * [가운데 글자 가져오기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12903.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12903, "Programmers Link")
    * [핸드폰 번호 가리기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12948.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12948, "Programmers Link")
    * [두 개 뽑아서 더하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/68644.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/68644 "Programmers Link")
