@@ -17,6 +17,7 @@ This repository is for uploading algorithm quiz I solved.
    * [약수의 합](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12928.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12928, "Programmers Link")
    * [평균 구하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12944.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12944, "Programmers Link")
    * [정수 내림차순으로 배치하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12933.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12933, "Programmers Link")
+   * [자연수 뒤집어 배열로 만들기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12932.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12932, "Programmers Link")
    * [행렬의 덧셈](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12950.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12950, "Programmers Link")
    * [제일 작은 수 제거하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12935.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12935, "Programmers Link")
    * [자릿수 더하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12931.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12931, "Programmers Link")
