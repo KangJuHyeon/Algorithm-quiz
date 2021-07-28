@@ -3,12 +3,17 @@ This repository is for uploading algorithm quiz I solved.
 
 # [Baekjoon Online Judge](https://www.acmicpc.net)
 ### 1. 입출력과 사칙연산
-   * [2557](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2557.py) : Hello World[(문제)](https://www.acmicpc.net/problem/2557)
-   * [10718](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10718.py) : We love kriii[(문제)](https://www.acmicpc.net/problem/10718)
+   * [2557](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2557.py) : Hello World [(문제)](https://www.acmicpc.net/problem/2557)
+   * [10718](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10718.py) : We love kriii [(문제)](https://www.acmicpc.net/problem/10718)
    * [10171](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10171.py) : 고양이 [(문제)](https://www.acmicpc.net/problem/10171)
    * [10172](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10172.py) : 개 [(문제)](https://www.acmicpc.net/problem/10172)
    * [1000](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/1000.py) : A+B [(문제)](https://www.acmicpc.net/problem/1000)
    * [1001](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/1001.py) : A-B [(문제)](https://www.acmicpc.net/problem/1001)
+   * [10998](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10998.py) : A*B [(문제)](https://www.acmicpc.net/problem/10998)
+   * [1008](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/1008.py) : A/B [(문제)](https://www.acmicpc.net/problem/1008)
+   * [10869](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10869.py) : 사칙연산 [(문제)](https://www.acmicpc.net/problem/10869)
+   * [10430](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10430.py) : 나머지 [(문제)](https://www.acmicpc.net/problem/10430)
+   * [2588](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2588.py) : 곱셈 [(문제)](https://www.acmicpc.net/problem/2588)
 
 # [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
 ### 1. Basic
