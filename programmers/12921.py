@@ -38,7 +38,7 @@ def solution(n):
 
     return answer
 
-# 문제풀이(2)
+# 문제풀이(2) 통과가 안된다. 시간초과...
 # 수도코드(2)를 참조해서 다시 풀어보았다.
 def solution(n):
     answer = 0
