@@ -1,5 +1,6 @@
 # 파이썬 datetime 요일 계산하는 방법, 특정 날짜의 요일 계산법 : weekday(), calendar.weekday()
 
+# 관련 URL : https://ddolcat.tistory.com/688
 # date.weekday() 정수로 요일을 반환한다. 월요일은 0이고 일요일은 6이면
 # date(2020, 12, 2).weekday() # 2 
 # 그럼 수요일을 반환한다. ["월", "화", "수", "목", "금", "토", "일"] 인덱스 2 => 요일로 반환
