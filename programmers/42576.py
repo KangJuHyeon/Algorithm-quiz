@@ -7,8 +7,8 @@ def solution(participant, completion):
         temp += int(hash(part)) # 정수형 해시값을 temp라는 값과 더하여 할당
 
     for com in completion:  # 완주자들의 리스트
-        temp -= hash(com)	# 완주자들의 이름의 해시값들을 temp에서 빼준다.
-        answer = dic[temp]		# 그렇다면 temp에는 하나의 이름에 대한 해시값을 갖게 된다.
+        temp -= hash(com)   # 완주자들의 이름의 해시값들을 temp에서 빼준다.
+    answer = dic[temp]		# 그렇다면 temp에는 하나의 이름에 대한 해시값을 갖게 된다.
 
     return answer
 
@@ -17,3 +17,12 @@ def solution(participant, completion):
 # 이렇게 되면 temp는 오직 하나의 이름에 대한 해시값을 갖게 된다. 
 # 앞서 만든 딕셔너리의 key는 이름의 해시값이므로 temp(비완주자 이름의 해시값)를 이용하여 비완주자를 찾을 수 있다. 
 # 완주하지 못한 선수가 한명이라 가능한 방법같지만 hash함수를 잘 사용한게 신기했다.
+
+# 문제 풀이(2) 정렬을 활용해서 풀었다.
+def solution(participant, completion): 
+    participant.sort()
+    completion.sort()
+    for p,c in zip(participant, completion):
+        if p != c:
+            return p
+    return participant.pop()
