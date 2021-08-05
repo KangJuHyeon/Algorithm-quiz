@@ -14,6 +14,14 @@ This repository is for uploading algorithm quiz I solved.
    * [10869](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10869.py) : 사칙연산 [(문제)](https://www.acmicpc.net/problem/10869)
    * [10430](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10430.py) : 나머지 [(문제)](https://www.acmicpc.net/problem/10430)
    * [2588](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2588.py) : 곱셈 [(문제)](https://www.acmicpc.net/problem/2588)
+### 2. if문
+   * [1330](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/1330.py) : 두 수 비교하기 [(문제)](https://www.acmicpc.net/problem/1330)
+   * [9498](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/9498.py) : 시험 성적 [(문제)](https://www.acmicpc.net/problem/9498)
+   * [2753](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2753.py) : 윤년 [(문제)](https://www.acmicpc.net/problem/2753)
+   * [14681](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/14681.py) : 사분면 고르기 [(문제)](https://www.acmicpc.net/problem/14681)
+   * [2884](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2884.py) : 알람 시계 [(문제)](https://www.acmicpc.net/problem/2884)
+### 3. for문
+   * [2739]
 
 # [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
 ### 1. Basic
@@ -55,5 +63,8 @@ This repository is for uploading algorithm quiz I solved.
    * [전화번호 목록](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42577.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42577, "Programmers Link")
    * [위장](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42578.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42578, "Programmers Link")
 
-<!-- 위에 문제 형식 정리 예제 -->
+<!-- 프로그래머스 문제 형식 정리 예제 -->
 <!-- [문제 이름](URL "problem solving") : [문제](URL, "Programmers Link") -->
+
+<!-- 백준 알고리즘 문제 형식 정리 -->
+<!-- [문제 번호](URL) : 제목 [(문제)](URL) -->
