@@ -55,6 +55,7 @@ This repository is for uploading algorithm quiz I solved.
    * [약수의 개수와 덧셈](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/77884.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/77884, "Programmers Link")
    * [최대공약수와 최소공배수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12940.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12940, "Programmers Link")
    * [이상한 문자 만들기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12930.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12930, "Programmers Link")
+   * [시저 암호](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12926.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12926, "Programmers Link")
 ### 2. Stack/Queue
    * [기능개발](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42586.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42586, "Programmers Link")
    * [프린터](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42587.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42587, "Programmers Link")
