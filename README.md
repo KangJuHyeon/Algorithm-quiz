@@ -21,7 +21,7 @@ This repository is for uploading algorithm quiz I solved.
    * [14681](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/14681.py) : 사분면 고르기 [(문제)](https://www.acmicpc.net/problem/14681)
    * [2884](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2884.py) : 알람 시계 [(문제)](https://www.acmicpc.net/problem/2884)
 ### 3. for문
-   * [2739]
+   * [2739](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2739.py) : 구구단 [(문제)](https://www.acmicpc.net/problem/2739)
 
 # [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
 ### 1. Basic
