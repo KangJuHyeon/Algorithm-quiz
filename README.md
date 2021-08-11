@@ -65,6 +65,8 @@ This repository is for uploading algorithm quiz I solved.
    * [완주하지못한선수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42576.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42576, "Programmers Link")
    * [전화번호 목록](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42577.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42577, "Programmers Link")
    * [위장](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42578.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42578, "Programmers Link")
+### 4. Greedy(탐욕법)
+   * [체육복](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42862.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42862, "Programmers Link")
 
 <!-- 프로그래머스 문제 형식 정리 예제 -->
 <!-- [문제 이름](URL "problem solving") : [문제](URL, "Programmers Link") -->
