@@ -22,6 +22,16 @@ This repository is for uploading algorithm quiz I solved.
    * [2884](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2884.py) : 알람 시계 [(문제)](https://www.acmicpc.net/problem/2884)
 ### 3. for문
    * [2739](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2739.py) : 구구단 [(문제)](https://www.acmicpc.net/problem/2739)
+   * [10950](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10950.py) : A+B - 3 [(문제)](https://www.acmicpc.net/problem/10950)
+   * [8393](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/8393.py) : 합 [(문제)](https://www.acmicpc.net/problem/8393)
+   * [15552](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/15552.py) : 빠른 A+B [(문제)](https://www.acmicpc.net/problem/15552)
+   * [2741](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2741.py) : N 찍기 [(문제)](https://www.acmicpc.net/problem/2741)
+   * [2742](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2742.py) : 기찍 N [(문제)](https://www.acmicpc.net/problem/2742)
+   * [11021](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/11021.py) : A+B - 7 [(문제)](https://www.acmicpc.net/problem/11021)
+   * [11022](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/11022.py) : A+B - 8 [(문제)](https://www.acmicpc.net/problem/11022)
+   * [2438](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2438.py) : 별 찍기 - 1 [(문제)](https://www.acmicpc.net/problem/2438)
+   * [2439](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2439.py) : 별 찍기 - 2 [(문제)](https://www.acmicpc.net/problem/2439)
+   * [10871](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10871.py) : X보다 작은 수 [(문제)](https://www.acmicpc.net/problem/10871)
 
 # [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
 ### 1. Basic
