@@ -32,7 +32,10 @@ This repository is for uploading algorithm quiz I solved.
    * [2438](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2438.py) : 별 찍기 - 1 [(문제)](https://www.acmicpc.net/problem/2438)
    * [2439](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2439.py) : 별 찍기 - 2 [(문제)](https://www.acmicpc.net/problem/2439)
    * [10871](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10871.py) : X보다 작은 수 [(문제)](https://www.acmicpc.net/problem/10871)
-
+### 4. while문
+   * [10952](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10952.py) : A+B - 5 [(문제)](https://www.acmicpc.net/problem/10952)
+   * [문제 번호](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10951.py) : A+B - 4 [(문제)](https://www.acmicpc.net/problem/10951)
+   * [문제 번호](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/1110.py) : 더하기 사이클 [(문제)](https://www.acmicpc.net/problem/1110)
 # [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
 ### 1. Basic
    * [짝수와 홀수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12937.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12937, "Programmers Link")
