@@ -3,6 +3,6 @@
 while 1 or True:
     a, b = map(int, input().split())
     if a == 0 and b == 0:
-        break;
+        break
     else:
         print(a+b)
