@@ -9,10 +9,10 @@
 
 # 수도코드(1)
 # 리스트로 해도 결국 답은 똑같으니 되는 것 아닌가 싶어서 풀어보았지만 틀렸다고 나옴ㅠ
-# result = list(map(int, input().split()))
+result = list(map(int, input().split()))
 
-# print(max(result))
-# print(result.index(max(result))+1)
+print(max(result))
+print(result.index(max(result))+1)
 
 # 문제풀이(1)
 # 1차원 배열을 선언하고 그 안에 입력값을 주고 max함수를 이용해 최댓값을 구하고,
