@@ -37,7 +37,8 @@ This repository is for uploading algorithm quiz I solved.
    * [10951](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10951.py) : A+B - 4 [(문제)](https://www.acmicpc.net/problem/10951)
    * [1110](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/1110.py) : 더하기 사이클 [(문제)](https://www.acmicpc.net/problem/1110)
 ### 5. 1차원 배열
-   * [문제 번호](URL) : 제목 [(문제)](URL)
+   * [10818](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10818.py) : 최소, 최대 [(문제)](https://www.acmicpc.net/problem/10818)
+   * [2562](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2562.py) : 최댓값 [(문제)](https://www.acmicpc.net/problem/2562)
 # [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
 ### 1. Basic
    * [짝수와 홀수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12937.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12937, "Programmers Link")
