@@ -40,6 +40,10 @@ This repository is for uploading algorithm quiz I solved.
    * [10818](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10818.py) : 최소, 최대 [(문제)](https://www.acmicpc.net/problem/10818)
    * [2562](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2562.py) : 최댓값 [(문제)](https://www.acmicpc.net/problem/2562)
    * [2577](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2577.py) : 숫자의 개수 [(문제)](https://www.acmicpc.net/problem/2577)
+   * [3052](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/3052.py) : 나머지 [(문제)](https://www.acmicpc.net/problem/3052)
+   * [1546](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/1546.py) : 평균 [(문제)](https://www.acmicpc.net/problem/1546)
+   * [8958](URL) : 제목 [(문제)](URL)
+   * [4344](URL) : 제목 [(문제)](URL)
 # [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
 ### 1. Basic
    * [짝수와 홀수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12937.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12937, "Programmers Link")
