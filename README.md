@@ -39,6 +39,7 @@ This repository is for uploading algorithm quiz I solved.
 ### 5. 1차원 배열
    * [10818](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10818.py) : 최소, 최대 [(문제)](https://www.acmicpc.net/problem/10818)
    * [2562](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2562.py) : 최댓값 [(문제)](https://www.acmicpc.net/problem/2562)
+   * [2577](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2577.py) : 숫자의 개수 [(문제)](https://www.acmicpc.net/problem/2577)
 # [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
 ### 1. Basic
    * [짝수와 홀수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12937.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12937, "Programmers Link")
@@ -74,6 +75,7 @@ This repository is for uploading algorithm quiz I solved.
    * [이상한 문자 만들기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12930.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12930, "Programmers Link")
    * [시저 암호](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12926.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12926, "Programmers Link")
    * [위클리 1주차](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/82612.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/82612, "Programmers Link")
+   * [폰켓몬](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/1845.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/1845, "Programmers Link")
 ### 2. Stack/Queue
    * [기능개발](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42586.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42586, "Programmers Link")
    * [프린터](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42587.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42587, "Programmers Link")
