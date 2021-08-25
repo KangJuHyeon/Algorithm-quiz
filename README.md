@@ -45,7 +45,7 @@ This repository is for uploading algorithm quiz I solved.
    * [8958](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/8958.py) : OX퀴즈 [(문제)](https://www.acmicpc.net/problem/8958)
    * [4344](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/4344.py) : 평균은 넘겠지 [(문제)](https://www.acmicpc.net/problem/4344)
 # [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
-### 1. Basic
+### Level 1
    * [짝수와 홀수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12937.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12937, "Programmers Link")
    * [문자열 다루기 기본](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12918.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12918, "Programmers Link")
    * [문자열을 정수로 바꾸기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12925.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12925, "Programmers Link")
@@ -81,17 +81,21 @@ This repository is for uploading algorithm quiz I solved.
    * [폰켓몬](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/1845.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/1845, "Programmers Link")
    * [위클리 1주차](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/82612.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/82612, "Programmers Link")
    * [위클리 2주차](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/83201.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/83201, "Programmers Link")
-### 2. Stack/Queue
+### Level 2
+   * [피보나치 수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12945.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12945, "Programmers Link")
+### 1. Stack/Queue
    * [기능개발](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42586.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42586, "Programmers Link")
    * [프린터](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42587.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42587, "Programmers Link")
-### 3. Hash
+### 2. Hash
    * [완주하지못한선수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42576.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42576, "Programmers Link")
    * [전화번호 목록](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42577.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42577, "Programmers Link")
    * [위장](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42578.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42578, "Programmers Link")
-### 4. Greedy(탐욕법)
+### 3. Greedy(탐욕법)
    * [체육복](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42862.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42862, "Programmers Link")
-### 5. Sort
+### 4. Sort
    * [K번째수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42748.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42748, "Programmers Link")
+### 5. Brute Force
+   * [모의고사](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42840.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42840, "Programmers Link")
 
 <!-- 프로그래머스 문제 형식 정리 예제 -->
 <!-- [문제 이름](URL "problem solving") : [문제](URL, "Programmers Link") -->
