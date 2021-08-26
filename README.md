@@ -83,6 +83,7 @@ This repository is for uploading algorithm quiz I solved.
    * [위클리 2주차](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/83201.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/83201, "Programmers Link")
 ### Level 2
    * [피보나치 수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12945.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12945, "Programmers Link")
+   * [124 나라의 숫자](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12899.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12899, "Programmers Link")
 ### 1. Stack/Queue
    * [기능개발](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42586.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42586, "Programmers Link")
    * [프린터](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42587.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42587, "Programmers Link")
