@@ -89,6 +89,8 @@ This repository is for uploading algorithm quiz I solved.
    * [124 나라의 숫자](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12899.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12899, "Programmers Link")
    * [행렬의 곱셈](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12949.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12949, "Programmers Link")
    * [최솟값 만들기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12941.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12941, "Programmers Link")
+   * [최댓값과 최솟값](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12939.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12939, "Programmers Link")
+   * [숫자의 표현](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12924.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12924, "Programmers Link")
 ### 1. Stack/Queue
    * [기능개발](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42586.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42586, "Programmers Link")
    * [프린터](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42587.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42587, "Programmers Link")
