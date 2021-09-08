@@ -22,58 +22,30 @@
 # 1 + 1 = 2
 # 2 + 2 = 4
 # 3 + 3 = 6
-# 이런식으로 자기 자신의 수와 각 자리수의 합으로 만들어지는 어떤 임의의 수는 셀프 넘버가 될 수 없다.
-# 1부터 10000까지의 수가 담겨있는 리스트에서 셀프 넘버가 될 수 없는 수들을 뺄 것이다.
-# self_list라는 리스트에 1부터 10000까지의 수를 담아둔다.
-# 10000보다 작거나 같은 셀프 넘버를 출력해야 되기 때문에 10000이 들어갔을때는 생성되는 수가 10001이 된다.
-# 그러므로 10000보다 작거나 같은 셀프 넘버들은 모두 4자리수 이하라고 가정하고 문제를 풀면된다.
-# 10000보다 작거나 같은 셀프 넘버들은 모두 4자리수 이하라고 가정하고 문제를 푼다.
-# 자기 자신의 수와 각 자리수를 더해야 하기 때문에 str형과 int형을 잘 바꿔가며 사용한다.
-# 이렇게 생성되는 셀프 넘버가 될 수 없는 수들은 num_list에 담아둔다.
-# num_list에 있는 수들은 셀프 넘버가 될 수 없기 때문에 self_list에서 num_list에 있는 수들을 지워준다.
-# 마지막으로 self_list에 있는 수들을 한줄씩 출력해주면 된다.
 
-#함수 d 구현하기
-def d(n):
-  n = n+sum(map(int,str(n)))
-  
-  return n
+# 앞에서 부터 자연수를 set 함수를 사용해서 1부터 10000까지 a로 변수설정을 하고
+# 생성될 숫자를 b라는 변수로 만들어준다.
 
-#생성자가 있는지 확인할 리스트 초기화하기
-a=[0]*10001
+# 그 다음 1부터 10000까지 for 반복문을 돌리고 이 반복문 안에 2중 반복문으로
+# 입력되는 i를 str(문자열)로 바꿔줘서
+# 예를 들어 850이라는 i가 입력될 때 8,5,0 처럼 하나씩하나씩 떼어서 더해줄 수 있도록하고
+# 그 안에서 850 + 8 + 5 + 0을 해준 결과인 863을 b 변수에 넣어준다.
 
-#생성자 찾기
-for i in range(1,10001):
-  a[i] = d(i)
+# 이렇게 하면 결국 b 변수에는 생성자로 생겨난 수들이 모이게 되고
+# 셀프 넘버는 생성자가 없는 숫자(1,3,5,7,9)등이니까
+# 전제 자연수(a)에서 생성자가 모인 변수(B)을 빼주면 셀프 넘버만 남게 된다.
 
+a = set(range(1, 10001))
+b = set()
 
-for i in range(1,10001):
-  #셀프넘버라면 출력하기
-  if i not in a:
+for i in range(1, 10001): # i = 850
+    # print(i)
+    for j in str(i):      # j = "8", "5", "0"
+        # print(j)
+        i += int(j)       # 850 + 8 + 5 + 0, i = 863
+    b.add(i)           # 생성자가 있는 숫자들
+print(b)
+    
+self_num = sorted(a - b)
+for i in self_num:
     print(i)
-
-def self_number():
-    self_list = []
-    num_list = []
-    for i in range(1, 10001): # 1부터 10000까지의 수가 담겨있는 리스트에서 셀프 넘거가 될 수 없는 수들을 뺄 것이다.
-        self_list.append(i) # 1부터 10000까지의 수를 담아둔다.
-        for j in range(len(str(i))): 
-            if len(str(i)) == 4:
-                num = i + int(str(i)[0]) + int(str(i)[1]) + int(str(i)[2]) + int(str(i)[3])
-            elif len(str(i)) == 3:
-                num = i + int(str(i)[0]) + int(str(i)[1]) + int(str(i)[2])
-            elif len(str(i)) == 2:
-                num = i + int(str(i)[0]) + int(str(i)[1])
-            elif len(str(i)) == 1:
-                num = i + i
-
-            num_list.append(num)
-    
-    for k in range(len(num_list)):
-        if num_list[k] in self_list:
-            self_list.remove(num_list[k])
-    
-    for x in self_list:
-        print(x)
-    
-selif_number()
