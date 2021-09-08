@@ -91,6 +91,8 @@ This repository is for uploading algorithm quiz I solved.
    * [최솟값 만들기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12941.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12941, "Programmers Link")
    * [최댓값과 최솟값](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12939.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12939, "Programmers Link")
    * [숫자의 표현](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12924.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12924, "Programmers Link")
+   * [N개의 최소공배수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12953.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12953, "Programmers Link")
+   * [JadenCase 문자열 만들기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12951.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12951, "Programmers Link")
 ### 1. Stack/Queue
    * [기능개발](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42586.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42586, "Programmers Link")
    * [프린터](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42587.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42587, "Programmers Link")
@@ -106,6 +108,7 @@ This repository is for uploading algorithm quiz I solved.
    * [모의고사](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42840.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42840, "Programmers Link")
 ### Kakao
    * [숫자 문자열과 영단어](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/81301.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/81301, "Programmers Link")
+   * [[1차] 비밀지도](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17681.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17681, "Programmers Link")
 
 <!-- 프로그래머스 문제 형식 정리 예제 -->
 <!-- [문제 이름](URL "problem solving") : [문제](URL, "Programmers Link") -->
