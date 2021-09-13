@@ -49,7 +49,7 @@ This repository is for uploading algorithm quiz I solved.
    * [4673](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/4673.py) : 셀프 넘버 [(문제)](https://www.acmicpc.net/problem/4673)
    * [1065](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/1065.py) : 한수 [(문제)](https://www.acmicpc.net/problem/1065)
 ### 7. 문자열
-   * [아스키 코드](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/11654.py) : 아스키 코드 [(문제)](https://www.acmicpc.net/problem/11654)
+   * [11654](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/11654.py) : 아스키 코드 [(문제)](https://www.acmicpc.net/problem/11654)
 # [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
 ### Level 1
    * [짝수와 홀수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12937.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12937, "Programmers Link")
