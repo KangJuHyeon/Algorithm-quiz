@@ -6,20 +6,20 @@ for i in range(b):
     print('')
 
 # Best 풀이라고 합니다.
-# a, b = map(int, input().strip().split(' '))
-# answer = ('*'*a +'\n')*b
-# print(answer)
+a, b = map(int, input().strip().split(' '))
+answer = ('*'*a +'\n')*b
+print(answer)
 
 # 세 번째 풀이
-# a, b = map(int, input().split(' ')) 
-# star = '*' * a
-# for i in range(b):
-#     print(star)
+a, b = map(int, input().split(' ')) 
+star = '*' * a
+for i in range(b):
+    print(star)
 
 # 네 번째 풀이
-# a, b = map(int, input().split(' ')) 
-# for i in range(b):
-#     print('*' * a)
+a, b = map(int, input().split(' ')) 
+for i in range(b):
+    print('*' * a)
 
 # print() end=""와 sep="" 의 차이를 잘 알아볼 수 있었다. end=''는 123 붙여줄 수 있고, 띄어쓰기 하고 싶다면 ' ' 공백을 주면 된다. => 1 2 3
 # sep=''는 print("010","1234","5678", sep="-") => 010-1234-5678 이런식으로 나올 수 있게 한다.
