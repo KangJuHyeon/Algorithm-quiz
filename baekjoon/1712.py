@@ -21,10 +21,21 @@
 
 # 총 수입 = 고정비용 + 가변비용
 
+# 문제 풀이(1)
 A, B, C = map(int, input().split())
-# Q = A / C-B
-# TR = C * Q
-if B >= C:
+if B >= C: # 판매가격보다 변동비가 더 높아지면 손익분기점이 생길수가없다.
     print(-1)
 else:
     print(int(A//(C-B)+1))
+
+# 문제 풀이(2) 런타임에러남;
+A, B, C = map(int, input().split())
+
+Q = A / (C-B) # 매출량
+# print(int(Q)+1)
+TR = C * Q # 매출액
+# print(int(TR))
+if B >= C:
+    print(-1)
+else:
+    print(int(Q+1))
