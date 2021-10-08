@@ -64,6 +64,7 @@ def solution(prices):
         # 1. 스택에서 마지막에 저장된 시간 top을 꺼낸다.
         # 2. answer[top]에 가장 마지막 시간 n - i 에서 top을 뺀 시간 저장
         print(stack)
+        print(n)
         top = stack.pop()
         answer[top] = n - 1 - top
         print(answer[top])
