@@ -109,6 +109,8 @@ This repository is for uploading algorithm quiz I solved.
 ### 1. Stack/Queue
    * [기능개발](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42586.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42586, "Programmers Link")
    * [프린터](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42587.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42587, "Programmers Link")
+   * [다리를 지나는 트럭](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42583.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42583, "Programmers Link")
+   * [주식가격](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42584.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42584, "Programmers Link")
 ### 2. Hash
    * [완주하지못한선수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42576.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42576, "Programmers Link")
    * [전화번호 목록](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42577.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42577, "Programmers Link")
