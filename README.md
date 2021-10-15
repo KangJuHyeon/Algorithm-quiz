@@ -117,11 +117,14 @@ This repository is for uploading algorithm quiz I solved.
    * [위장](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42578.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42578, "Programmers Link")
 ### 3. Greedy(탐욕법)
    * [체육복](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42862.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42862, "Programmers Link")
-### 4. Sort
+### 4. Heap
+   * [더 맵게](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42626.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42626, "Programmers Link")
+### 5. Sort
    * [K번째수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42748.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42748, "Programmers Link")
-### 5. Brute Force
+   * [가장 큰 수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42746.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42746, "Programmers Link")
+### 6. Brute Force
    * [모의고사](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42840.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42840, "Programmers Link")
-### 6. BFS & DFS
+### 7. BFS & DFS
    * [타겟넘버](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/43165.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/43165, "Programmers Link")
 ### Kakao
    * [숫자 문자열과 영단어](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/81301.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/81301, "Programmers Link")
