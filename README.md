@@ -59,6 +59,10 @@ This repository is for uploading algorithm quiz I solved.
    * [5622](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/5622.py) : 다이얼 [(문제)](https://www.acmicpc.net/problem/5622)
    * [2941](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2941.py) : 크로아티아 알파벳 [(문제)](https://www.acmicpc.net/problem/2941)
    * [1316](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/1316.py) : 그룹 단어 체커 [(문제)](https://www.acmicpc.net/problem/1316)
+### 8. 기본 수학 1
+   * [1712](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/1712.py) : 손익분기점 [(문제)](https://www.acmicpc.net/problem/1712)
+   * [2292](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2292.py) : 벌집 [(문제)](https://www.acmicpc.net/problem/2292)
+   * [1193](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/1193.py) : 분수찾기 [(문제)](https://www.acmicpc.net/problem/1193)
 # [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
 ### Level 1
    * [짝수와 홀수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12937.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12937, "Programmers Link")
@@ -106,6 +110,7 @@ This repository is for uploading algorithm quiz I solved.
    * [JadenCase 문자열 만들기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12951.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12951, "Programmers Link")
    * [다음 큰 숫자](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12911.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12911, "Programmers Link")
    * [땅따먹기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12913.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12913, "Programmers Link")
+   * [올바른 괄호](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12909.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12909, "Programmers Link")
 ### 1. Stack/Queue
    * [기능개발](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42586.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42586, "Programmers Link")
    * [프린터](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42587.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42587, "Programmers Link")
@@ -122,8 +127,10 @@ This repository is for uploading algorithm quiz I solved.
 ### 5. Sort
    * [K번째수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42748.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42748, "Programmers Link")
    * [가장 큰 수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42746.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42746, "Programmers Link")
+   * [H-Index](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42747.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42747, "Programmers Link")
 ### 6. Brute Force
    * [모의고사](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42840.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42840, "Programmers Link")
+   * [소수 찾기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42839.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42839, "Programmers Link")
 ### 7. BFS & DFS
    * [타겟넘버](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/43165.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/43165, "Programmers Link")
 ### Kakao
