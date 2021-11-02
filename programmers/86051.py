@@ -14,7 +14,9 @@ print(solution([1, 2, 3, 4, 6, 7, 8, 0]))
 
 # 다른사람의 풀이(1)
 solution = lambda x: sum(range(10)) - sum(x)
+print(solution([1, 2, 3, 4, 6, 7, 8, 0]))
 
 # 다른사람의 풀이(2)
 def solution(numbers):
     return 45 - sum(numbers)
+print(solution([1, 2, 3, 4, 6, 7, 8, 0]))
