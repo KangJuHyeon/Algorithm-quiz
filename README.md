@@ -90,6 +90,7 @@ This repository is for uploading algorithm quiz I solved.
    * [핸드폰 번호 가리기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12948.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12948, "Programmers Link")
    * [두 개 뽑아서 더하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/68644.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/68644 "Programmers Link")
    * [문자열 내 마음대로 정렬하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12915.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12915, "Programmers Link")
+   * [없는 숫자 더하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/86051.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/86051, "Programmers Link")
    * [콜라츠 추측](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12943.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12943, "Programmers Link")
    * [소수 찾기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12921.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12921, "Programmers Link")
    * [약수의 개수와 덧셈](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/77884.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/77884, "Programmers Link")
@@ -109,6 +110,7 @@ This repository is for uploading algorithm quiz I solved.
    * [N개의 최소공배수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12953.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12953, "Programmers Link")
    * [JadenCase 문자열 만들기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12951.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12951, "Programmers Link")
    * [다음 큰 숫자](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12911.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12911, "Programmers Link")
+   * [짝지어 제거하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12973.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12973, "Programmers Link")
    * [땅따먹기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12913.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12913, "Programmers Link")
    * [올바른 괄호](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12909.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12909, "Programmers Link")
 ### 1. Stack/Queue
@@ -140,9 +142,10 @@ This repository is for uploading algorithm quiz I solved.
    * [숫자 문자열과 영단어](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/81301.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/81301, "Programmers Link")
    * [[1차] 비밀지도](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17681.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17681, "Programmers Link")
    * [[카카오 인턴]키패드 누르기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/67256.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/67256, "Programmers Link")
+   * [문자열 압축](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/60057.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/60057, "Programmers Link")
 
 <!-- 프로그래머스 문제 형식 정리 예제 -->
-<!-- [문제 이름](URL "problem solving") : [문제](URL, "Programmers Link") -->
+<!-- * [문제 이름](URL "problem solving") : [문제](URL, "Programmers Link") -->
 
 <!-- 백준 알고리즘 문제 형식 정리 -->
-<!-- [문제 번호](URL) : 제목 [(문제)](URL) -->
+<!-- * [문제 번호](URL) : 제목 [(문제)](URL) -->
