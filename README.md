@@ -75,6 +75,7 @@ This repository is for uploading algorithm quiz I solved.
    * [직사각형 별찍기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12969.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12969, "Programmers Link")
    * [2016년](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12901.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12901, "Programmers Link")
    * [약수의 합](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12928.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12928, "Programmers Link")
+   * [나머지가 1이 되는 수 찾기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/87389.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/87389, "Programmers Link")
    * [평균 구하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12944.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12944, "Programmers Link")
    * [정수 내림차순으로 배치하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12933.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12933, "Programmers Link")
    * [자연수 뒤집어 배열로 만들기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12932.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12932, "Programmers Link")
@@ -113,6 +114,7 @@ This repository is for uploading algorithm quiz I solved.
    * [짝지어 제거하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12973.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12973, "Programmers Link")
    * [땅따먹기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12913.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12913, "Programmers Link")
    * [올바른 괄호](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12909.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12909, "Programmers Link")
+   * [가장 큰 정사각형 찾기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12905.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12905, "Programmers Link")
 ### 1. Stack/Queue
    * [기능개발](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42586.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42586, "Programmers Link")
    * [프린터](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42587.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42587, "Programmers Link")
