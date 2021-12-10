@@ -163,7 +163,9 @@ This repository is for uploading algorithm quiz I solved.
    * [[카카오 인턴]키패드 누르기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/67256.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/67256, "Programmers Link")
    * [문자열 압축](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/60057.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/60057, "Programmers Link")
    * [오픈채팅방](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/42888.Py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42888, "Programmers Link")
-
+   * [실패율](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/42889.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42889, "Programmers Link")
+   * [메뉴 리뉴얼](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/72411.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/72411, "Programmers Link")
+   * [순위 검색](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/72412.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/72412, "Programmers Link")
 <!-- 프로그래머스 문제 형식 정리 예제 -->
 <!-- * [문제 이름](URL "problem solving") : [문제](URL, "Programmers Link") -->
 
