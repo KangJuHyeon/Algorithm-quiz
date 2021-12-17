@@ -111,8 +111,9 @@ This repository is for uploading algorithm quiz I solved.
    * [이상한 문자 만들기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12930.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12930, "Programmers Link")
    * [시저 암호](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12926.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12926, "Programmers Link")
    * [폰켓몬](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/1845.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/1845, "Programmers Link")
-   * [위클리 1주차](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/82612.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/82612, "Programmers Link")
-   * [위클리 2주차](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/83201.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/83201, "Programmers Link")
+   * [위클리 1주차(부족한 금액 계산하기)](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/82612.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/82612, "Programmers Link")
+   * [위클리 2주차(상호작용)](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/83201.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/83201, "Programmers Link")
+   * [위클리 8주차(최소직사각형)](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/86491.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/86491, "Programmers Link")
 ### Level 2
    * [피보나치 수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12945.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12945, "Programmers Link")
    * [124 나라의 숫자](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12899.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12899, "Programmers Link")
@@ -129,6 +130,7 @@ This repository is for uploading algorithm quiz I solved.
    * [가장 큰 정사각형 찾기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12905.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12905, "Programmers Link")
    * [스킬트리](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/49993.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/49993, "Programmers Link")
    * [영어 끝말잇기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12981.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12981, "Programmers Link")
+   * [위클리 챌린지(피로도)](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/87946.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/87946, "Programmers Link")
 ### 1. Stack/Queue
    * [기능개발](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42586.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42586, "Programmers Link")
    * [프린터](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42587.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42587, "Programmers Link")
@@ -166,6 +168,9 @@ This repository is for uploading algorithm quiz I solved.
    * [실패율](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/42889.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42889, "Programmers Link")
    * [메뉴 리뉴얼](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/72411.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/72411, "Programmers Link")
    * [순위 검색](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/72412.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/72412, "Programmers Link")
+   * [후보키](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/42890.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42890, "Programmers Link")
+
+
 <!-- 프로그래머스 문제 형식 정리 예제 -->
 <!-- * [문제 이름](URL "problem solving") : [문제](URL, "Programmers Link") -->
 
