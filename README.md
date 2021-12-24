@@ -158,10 +158,11 @@ This repository is for uploading algorithm quiz I solved.
 ### 7. BFS & DFS
    * [타겟넘버](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/43165.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/43165, "Programmers Link")
 ### Kakao
+   * [[1차] 비밀지도](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17681.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17681, "Programmers Link")
+   * [[1차]다트 게임](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17682.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17682, "Programmers Link")
    * [신규 아이디 추천](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/72410.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/72410, "Programmers Link")
    * [크레인 인형뽑기 게임](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/64061.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/64061, "Programmers Link")
    * [숫자 문자열과 영단어](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/81301.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/81301, "Programmers Link")
-   * [[1차] 비밀지도](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17681.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17681, "Programmers Link")
    * [[카카오 인턴]키패드 누르기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/67256.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/67256, "Programmers Link")
    * [문자열 압축](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/60057.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/60057, "Programmers Link")
    * [오픈채팅방](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/42888.Py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42888, "Programmers Link")
