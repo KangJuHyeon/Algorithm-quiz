@@ -131,6 +131,7 @@ This repository is for uploading algorithm quiz I solved.
    * [스킬트리](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/49993.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/49993, "Programmers Link")
    * [점프와 순간 이동](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12980.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12980, "Programmers Link")
    * [영어 끝말잇기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12981.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12981, "Programmers Link")
+   * [게임 맵 최단거리](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/1844.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/1844, "Programmers Link")
    * [위클리 챌린지(피로도)](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/87946.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/87946, "Programmers Link")
 ### 1. Stack/Queue
    * [기능개발](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42586.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42586, "Programmers Link")
@@ -172,7 +173,7 @@ This repository is for uploading algorithm quiz I solved.
    * [메뉴 리뉴얼](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/72411.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/72411, "Programmers Link")
    * [[3차] n진수 게임](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17687.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17687, "Programmers Link")
    * [[3차] 압축](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17684.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17684, "Programmers Link")
-   * [[3차] 파일명 정렬](URL "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17686, "Programmers Link")
+   * [[3차] 파일명 정렬](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17686.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17686, "Programmers Link")
    * [순위 검색](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/72412.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/72412, "Programmers Link")
    * [후보키](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/42890.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42890, "Programmers Link")
 
