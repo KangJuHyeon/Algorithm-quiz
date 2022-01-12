@@ -160,6 +160,7 @@ This repository is for uploading algorithm quiz I solved.
 ### 7. BFS & DFS
    * [타겟넘버](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/43165.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/43165, "Programmers Link")
 ### Kakao
+   * [[1차] 뉴스 클러스터링](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17677.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17677, "Programmers Link")
    * [[1차] 비밀지도](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17681.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17681, "Programmers Link")
    * [[1차] 다트 게임](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17682.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17682, "Programmers Link")
    * [신규 아이디 추천](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/72410.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/72410, "Programmers Link")
