@@ -131,9 +131,11 @@ This repository is for uploading algorithm quiz I solved.
    * [스킬트리](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/49993.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/49993, "Programmers Link")
    * [점프와 순간 이동](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12980.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12980, "Programmers Link")
    * [영어 끝말잇기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12981.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12981, "Programmers Link")
+   * [삼각 달팽이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/68645.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/68645, "Programmers Link")
    * [게임 맵 최단거리](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/1844.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/1844, "Programmers Link")
    * [멀쩡한 사각형](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/62048.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/62048, "Programmers Link")
    * [위클리 챌린지(피로도)](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/87946.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/87946, "Programmers Link")
+   * [모음사전](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/84512.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/84512, "Programmers Link")
 ### 1. Stack/Queue
    * [기능개발](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42586.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42586, "Programmers Link")
    * [프린터](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42587.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42587, "Programmers Link")
