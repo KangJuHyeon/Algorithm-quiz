@@ -137,7 +137,7 @@ This repository is for uploading algorithm quiz I solved.
    * [게임 맵 최단거리](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/1844.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/1844, "Programmers Link")
    * [멀쩡한 사각형](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/62048.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/62048, "Programmers Link")
    * [위클리 챌린지(피로도)](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/87946.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/87946, "Programmers Link")
-   * [위클리 챌린지(전력망을 둘로 나누기)](URL "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/86971, "Programmers Link")
+   * [위클리 챌린지(전력망을 둘로 나누기)](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/86971.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/86971, "Programmers Link")
    * [모음사전](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/84512.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/84512, "Programmers Link")
 ### 1. Stack/Queue
    * [기능개발](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42586.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42586, "Programmers Link")
@@ -177,6 +177,7 @@ This repository is for uploading algorithm quiz I solved.
    * [문자열 압축](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/60057.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/60057, "Programmers Link")
    * [괄호 변환](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/60058.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/60058, "Programmers Link")
    * [오픈채팅방](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/42888.Py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42888, "Programmers Link")
+   * [[카카오 인턴]수식 최대화](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/67257.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/67257, "Programmers Link")
    * [실패율](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/42889.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42889, "Programmers Link")
    * [메뉴 리뉴얼](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/72411.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/72411, "Programmers Link")
    * [[3차] n진수 게임](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17687.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17687, "Programmers Link")
