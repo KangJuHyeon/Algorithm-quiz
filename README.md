@@ -136,6 +136,7 @@ This repository is for uploading algorithm quiz I solved.
    * [행렬 테두리 회전하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/77485.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/77485, "Programmers Link")
    * [게임 맵 최단거리](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/1844.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/1844, "Programmers Link")
    * [멀쩡한 사각형](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/62048.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/62048, "Programmers Link")
+   * [2개 이하로 다른 비트](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/77885.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/77885, "Programmers Link")
    * [n^2 배열 자르기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/87390.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/87390, "Programmers Link")
    * [위클리 챌린지 5주차(모음사전)](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/84512.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/84512, "Programmers Link")
    * [위클리 챌린지 9주차(전력망을 둘로 나누기)](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/86971.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/86971, "Programmers Link")
