@@ -39,8 +39,6 @@ while True:
             print(stack[len(stack)-1])
     else:
         break
-
-    
     
 # 문제풀이(2)
 # 리스트로 스택 구현
