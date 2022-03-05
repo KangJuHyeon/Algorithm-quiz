@@ -69,6 +69,10 @@ This repository is for uploading algorithm quiz I solved.
    * [2839](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2839.py) : 설탕 배달 [(문제)](https://www.acmicpc.net/problem/2839)
    * [10757](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10757.py) : 큰 수 A+B [(문제)](https://www.acmicpc.net/problem/10757)
    * [1011](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/1011.py) : Fly me to the Alpha Centauri [(문제)](https://www.acmicpc.net/problem/1011) 
+### Algorithm_basic
+   * [10828](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/10828.py) : 스택 [(문제)](https://www.acmicpc.net/problem/10828)
+   * [9093](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/9093.py) : 단어 뒤집기 [(문제)](https://www.acmicpc.net/problem/9093)
+   * [9012](URL) : 괄호 [(문제)](https://www.acmicpc.net/problem/9012)
 # [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
 ### Level 1
    * [짝수와 홀수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12937.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12937, "Programmers Link")
