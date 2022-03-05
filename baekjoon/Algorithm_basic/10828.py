@@ -3,7 +3,6 @@
 # sys를 사용하는 이유가 무엇인지 -> 시간초과가 나기 때문에 사용했다. 속도: sys.stdin.readline(4.5초) > input(12.5초)
 # sys.stdin.readline 사용할 때 주의할 점, 개행문자(\n)가 같이 입력받아진다. 3을 입력했따면, 3\n이 저장된다. 개행문자 제거 해야된다.
 
-
 # 문제풀이(1)
 import sys
 input = sys.stdin.readline
