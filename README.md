@@ -72,7 +72,15 @@ This repository is for uploading algorithm quiz I solved.
 ### Algorithm_basic
    * [10828](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/10828.py) : 스택 [(문제)](https://www.acmicpc.net/problem/10828)
    * [9093](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/9093.py) : 단어 뒤집기 [(문제)](https://www.acmicpc.net/problem/9093)
-   * [9012](URL) : 괄호 [(문제)](https://www.acmicpc.net/problem/9012)
+   * [9012](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/9012.py) : 괄호 [(문제)](https://www.acmicpc.net/problem/9012)
+# [LeetCode](https://leetcode.com/problemset/all/)
+### Easy
+   * [문제 풀이](URL) : 1. Two Sum [문제](https://leetcode.com/problems/two-sum/)
+   * [문제 풀이](URL) : 9. Palindrome Number [문제](https://leetcode.com/problems/palindrome-number/)
+   * [문제 풀이](URL) : 13. Roman to Integer [문제](https://leetcode.com/problems/roman-to-integer/)
+### Medium
+   * [문제 풀이](URL) : 2. Add Two Numbers [문제](https://leetcode.com/problems/add-two-numbers/)
+   * [문제 풀이](URL) : 3. Longest Substring Without Repeating Characters [문제](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 # [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
 ### Level 1
    * [짝수와 홀수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12937.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12937, "Programmers Link")
@@ -201,3 +209,6 @@ This repository is for uploading algorithm quiz I solved.
 
 <!-- 백준 알고리즘 문제 형식 정리 -->
 <!-- * [문제 번호](URL) : 제목 [(문제)](URL) -->
+
+<!-- 리트코드 문제 형식 정리 -->
+<!-- * [나의 문제 풀이](URL) : 제목 [홈페이지 문제](URL)-->
