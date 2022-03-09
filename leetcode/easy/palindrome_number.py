@@ -4,3 +4,5 @@ class Solution:
         return str(x) == str(x)[::-1]
 
 print(Solution().isPalindrome(121))
+print(Solution().isPalindrome(-121))
+print(Solution().isPalindrome(10))
