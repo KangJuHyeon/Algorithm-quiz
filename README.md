@@ -75,12 +75,12 @@ This repository is for uploading algorithm quiz I solved.
    * [9012](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/9012.py) : 괄호 [(문제)](https://www.acmicpc.net/problem/9012)
 # [LeetCode](https://leetcode.com/problemset/all/)
 ### Easy
-   * [문제 풀이](URL) : 1. Two Sum [문제](https://leetcode.com/problems/two-sum/)
-   * [문제 풀이](URL) : 9. Palindrome Number [문제](https://leetcode.com/problems/palindrome-number/)
-   * [문제 풀이](URL) : 13. Roman to Integer [문제](https://leetcode.com/problems/roman-to-integer/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/two_sum.py) : 1. Two Sum [문제](https://leetcode.com/problems/two-sum/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/palindrome_number.py) : 9. Palindrome Number [문제](https://leetcode.com/problems/palindrome-number/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/roman_to_integer.py) : 13. Roman to Integer [문제](https://leetcode.com/problems/roman-to-integer/)
 ### Medium
-   * [문제 풀이](URL) : 2. Add Two Numbers [문제](https://leetcode.com/problems/add-two-numbers/)
-   * [문제 풀이](URL) : 3. Longest Substring Without Repeating Characters [문제](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/medium/add_two_numbers.py) : 2. Add Two Numbers [문제](https://leetcode.com/problems/add-two-numbers/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/medium/longest_substring_without_repeating_characters.py) : 3. Longest Substring Without Repeating Characters [문제](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 # [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
 ### Level 1
    * [짝수와 홀수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12937.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12937, "Programmers Link")
@@ -144,6 +144,7 @@ This repository is for uploading algorithm quiz I solved.
    * [이진 변환 반복하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/70129.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/70129, "Programmers Link") 
    * [점프와 순간 이동](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12980.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12980, "Programmers Link")
    * [영어 끝말잇기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12981.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12981, "Programmers Link")
+   * [괄호 회전하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/76502.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/76502, "Programmers Link")
    * [삼각 달팽이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/68645.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/68645, "Programmers Link")
    * [행렬 테두리 회전하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/77485.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/77485, "Programmers Link")
    * [게임 맵 최단거리](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/1844.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/1844, "Programmers Link")
@@ -197,6 +198,7 @@ This repository is for uploading algorithm quiz I solved.
    * [[카카오 인턴]수식 최대화](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/67257.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/67257, "Programmers Link")
    * [실패율](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/42889.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42889, "Programmers Link")
    * [메뉴 리뉴얼](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/72411.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/72411, "Programmers Link")
+   * [[1차] 프렌즈4블록](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17679.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17679, "Programmers Link")
    * [[3차] n진수 게임](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17687.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17687, "Programmers Link")
    * [[3차] 압축](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17684.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17684, "Programmers Link")
    * [[3차] 파일명 정렬](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17686.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17686, "Programmers Link")

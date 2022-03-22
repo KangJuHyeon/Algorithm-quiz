@@ -1,2 +1,8 @@
-codingTest/
+# global
 .vscode/
+
+# codingTest
+codingTest/
+
+# practice\ code/
+practice\ code/JS
