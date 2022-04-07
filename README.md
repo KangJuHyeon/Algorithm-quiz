@@ -73,14 +73,20 @@ This repository is for uploading algorithm quiz I solved.
    * [10828](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/10828.py) : 스택 [(문제)](https://www.acmicpc.net/problem/10828)
    * [9093](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/9093.py) : 단어 뒤집기 [(문제)](https://www.acmicpc.net/problem/9093)
    * [9012](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/9012.py) : 괄호 [(문제)](https://www.acmicpc.net/problem/9012)
+   * [1874](https://www.acmicpc.net/problem/1874) : 스택 수열 [(문제)](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/1874.py) 
+   * [1406](https://www.acmicpc.net/problem/1406) : 에디터 [(문제)](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/1406.py) 
+   * [10845](https://www.acmicpc.net/problem/10845) : 큐 [(문제)](URL) 
 # [LeetCode](https://leetcode.com/problemset/all/)
 ### Easy
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/two_sum.py) : 1. Two Sum [문제](https://leetcode.com/problems/two-sum/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/palindrome_number.py) : 9. Palindrome Number [문제](https://leetcode.com/problems/palindrome-number/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/roman_to_integer.py) : 13. Roman to Integer [문제](https://leetcode.com/problems/roman-to-integer/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/longest_common_prefix.py) : 14. Longest Common Prefix [문제](https://leetcode.com/problems/valid-parentheses/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/valid_parentheses.py) : 20. Valid Parentheses [문제](https://leetcode.com/problems/longest-common-prefix/)
 ### Medium
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/medium/add_two_numbers.py) : 2. Add Two Numbers [문제](https://leetcode.com/problems/add-two-numbers/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/medium/longest_substring_without_repeating_characters.py) : 3. Longest Substring Without Repeating Characters [문제](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+   * [문제 풀이]() : 5. Longest Palindromic Substring [문제](https://leetcode.com/problems/longest-palindromic-substring/)
 # [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
 ### Level 1
    * [짝수와 홀수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12937.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12937, "Programmers Link")
@@ -213,4 +219,4 @@ This repository is for uploading algorithm quiz I solved.
 <!-- * [문제 번호](URL) : 제목 [(문제)](URL) -->
 
 <!-- 리트코드 문제 형식 정리 -->
-<!-- * [나의 문제 풀이](URL) : 제목 [홈페이지 문제](URL)-->
+<!-- * [문제 풀이](URL) : 제목 [문제](URL)-->
