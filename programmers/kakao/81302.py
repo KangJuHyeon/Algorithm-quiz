@@ -58,7 +58,31 @@ def solution(places):
                         if violators[i][j+1] == "P":
                             judgment = True
                             break
-            
+                        
+                        # 만약 오른쪽 부분이 빈테이블이고 그 다음에 바로 사람이 있다면 한칸 떨어져 있더라도 맨허튼 거리는 2므로 break
+                        if violators[i][j+1] == "O":
+                            if j + 2 < 5:
+                                if violators[i][j+2] == "P":
+                                    judgment = True
+                                    break
+                    # 우측 아래 부분
+                    if i + 1 < 5 and j + 1 < 5:
+                        # 만약 우측 아래가 사람이고, 오른쪽 또는 아래부분 중 하나라도 빈테이블이라면 break
+                        if violators[i+1][j+1] == "P" and (violators[i+1][j] == "O" or violators[i][j+1] == "O"):
+                            judgment = True
+                            break       
+                    # 좌측 아래부분
+                    if i + 1 < 5 and j - 1 >= 0:
+                        # 만약 좌측 아래가 사람이고, 왼쪽 또는 아래부분 중 하나라도 빈테이블이면 break
+                        if violators[i+1][j-1] == "P" and (violators[i+1][j] == "O" or violators[i][j-1] == "O"):
+                            judgment = True
+                            break
+        if judgment:
+            answer.append(0)
+        else:
+            # judgment가 false라면 거리두기가 지켜진 것
+            answer.append(1)     
+        
         if (div[4]):
             print("--------------------방화벽--------------------")
     return answer
