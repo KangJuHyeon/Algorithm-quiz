@@ -29,6 +29,7 @@ class Solution:
             cursor.next = list1
         else:
             cursor.next = list2
+        print("head", head.next.__dict__)
         return head.next
 
-print(Solution().mergeTwoLists(ListNode([1,2,4]), ListNode([1,3,4])))
+print(Solution().mergeTwoLists(ListNode([1,2,4]), ListNode([1,3,4])).__dict__['next'].__dict__)
