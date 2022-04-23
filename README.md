@@ -94,8 +94,8 @@ This repository is for uploading algorithm quiz I solved.
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/medium/add_two_numbers.py) : 2. Add Two Numbers [문제](https://leetcode.com/problems/add-two-numbers/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/medium/longest_substring_without_repeating_characters.py) : 3. Longest Substring Without Repeating Characters [문제](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
    * [문제 풀이](URL) : 5. Longest Palindromic Substring [문제](https://leetcode.com/problems/longest-palindromic-substring/)
-# [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/medium/zigzag_conversion.py) : 6. Zigzag Conversion [문제](https://leetcode.com/problems/zigzag-conversion/)
+# [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
 ### Level 1
    * [짝수와 홀수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12937.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12937, "Programmers Link")
    * [문자열 다루기 기본](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12918.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12918, "Programmers Link")
