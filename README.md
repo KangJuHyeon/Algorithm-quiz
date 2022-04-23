@@ -77,10 +77,10 @@ This repository is for uploading algorithm quiz I solved.
    * [1874](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/1874.py) : 스택 수열 [(문제)](https://www.acmicpc.net/problem/1874) 
    * [1406](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/1406.py) : 에디터 [(문제)](https://www.acmicpc.net/problem/1406) 
    * [10845](URL) : 큐 [(문제)](https://www.acmicpc.net/problem/10845) 
-   * [1158](URL) : 조세퍼스 문제 [(문제)](https://www.acmicpc.net/problem/1158) 
+   * [1158](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/1158.py) : 조세퍼스 문제 [(문제)](https://www.acmicpc.net/problem/1158) 
    * [10866](URL) : 덱 [(문제)](https://www.acmicpc.net/problem/10866) 
 ### 201 - 자료구조 1 (연습)
-   * [17413]() : 단어 뒤집기 2 [(문제)](https://www.acmicpc.net/problem/17413) 
+   * [17413](URL) : 단어 뒤집기 2 [(문제)](https://www.acmicpc.net/problem/17413) 
 # [LeetCode](https://leetcode.com/problemset/all/)
 ### Easy
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/two_sum.py) : 1. Two Sum [문제](https://leetcode.com/problems/two-sum/)
@@ -88,11 +88,14 @@ This repository is for uploading algorithm quiz I solved.
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/roman_to_integer.py) : 13. Roman to Integer [문제](https://leetcode.com/problems/roman-to-integer/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/longest_common_prefix.py) : 14. Longest Common Prefix [문제](https://leetcode.com/problems/valid-parentheses/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/valid_parentheses.py) : 20. Valid Parentheses [문제](https://leetcode.com/problems/longest-common-prefix/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/mergo_two_sorted_lists.py) : 21. Merge Two Sorted Lists [문제](https://leetcode.com/problems/merge-two-sorted-lists/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/remove_duplicates_from_sorted_array.py) : 26. Remove Duplicates from Sorted Array [문제](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 ### Medium
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/medium/add_two_numbers.py) : 2. Add Two Numbers [문제](https://leetcode.com/problems/add-two-numbers/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/medium/longest_substring_without_repeating_characters.py) : 3. Longest Substring Without Repeating Characters [문제](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-   * [문제 풀이]() : 5. Longest Palindromic Substring [문제](https://leetcode.com/problems/longest-palindromic-substring/)
+   * [문제 풀이](URL) : 5. Longest Palindromic Substring [문제](https://leetcode.com/problems/longest-palindromic-substring/)
 # [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/medium/zigzag_conversion.py) : 6. Zigzag Conversion [문제](https://leetcode.com/problems/zigzag-conversion/)
 ### Level 1
    * [짝수와 홀수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12937.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12937, "Programmers Link")
    * [문자열 다루기 기본](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12918.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12918, "Programmers Link")
@@ -226,4 +229,4 @@ This repository is for uploading algorithm quiz I solved.
 <!-- * [문제 번호](URL) : 제목 [(문제)](URL) -->
 
 <!-- 리트코드 문제 형식 정리 -->
-<!-- * [문제 풀이](URL) : 제목 [문제](URL)-->
+<!-- * [문제 풀이](URL) : 제목 [문제](URL) -->
