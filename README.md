@@ -147,6 +147,7 @@ This repository is for uploading algorithm quiz I solved.
    * [최솟값 만들기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12941.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12941, "Programmers Link")
    * [최댓값과 최솟값](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12939.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12939, "Programmers Link")
    * [숫자의 표현](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12924.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12924, "Programmers Link")
+   * [예상 대진표](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12985.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12985, "Programmers Link")
    * [N개의 최소공배수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12953.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12953, "Programmers Link")
    * [JadenCase 문자열 만들기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12951.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12951, "Programmers Link")
    * [다음 큰 숫자](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12911.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12911, "Programmers Link")
