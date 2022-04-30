@@ -69,6 +69,8 @@ This repository is for uploading algorithm quiz I solved.
    * [2839](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2839.py) : 설탕 배달 [(문제)](https://www.acmicpc.net/problem/2839)
    * [10757](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10757.py) : 큰 수 A+B [(문제)](https://www.acmicpc.net/problem/10757)
    * [1011](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/1011.py) : Fly me to the Alpha Centauri [(문제)](https://www.acmicpc.net/problem/1011) 
+### 기본 문제
+   * [1003](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/1003.py) : 피보나치 함수 [(문제)](https://www.acmicpc.net/problem/1003)
 ## Algorithm_basic
 ### 200 - 자료구조 1
    * [10828](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/10828.py) : 스택 [(문제)](https://www.acmicpc.net/problem/10828)
