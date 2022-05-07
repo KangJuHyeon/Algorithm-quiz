@@ -25,3 +25,20 @@ for i in range(N):
     stack.append(temp)
     print("stack", stack)
 print("정답", ' '.join(result[::-1]))
+
+# 문제풀이(2)
+from collections import Counter
+
+N = int(input())
+A = list(map(int, input().split()))
+count = Counter(A)
+result = [-1] * N
+stack = [0]
+print(stack)
+
+for i in range(1, N):
+    while stack and count[A[stack[-1]]] < count[A[i]]:
+            result[stack.pop()] = A[i]
+    stack.append(i)
+
+print(*result)
