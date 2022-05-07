@@ -83,6 +83,9 @@ This repository is for uploading algorithm quiz I solved.
    * [10866](URL) : 덱 [(문제)](https://www.acmicpc.net/problem/10866) 
 ### 201 - 자료구조 1 (연습)
    * [17413](URL) : 단어 뒤집기 2 [(문제)](https://www.acmicpc.net/problem/17413) 
+   * [10799](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/10799.py) : 쇠막대기 [(문제)](https://www.acmicpc.net/problem/10799) 
+   * [17298](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/17298.py) : 오큰수 [(문제)](https://www.acmicpc.net/problem/17298) 
+   * [17299](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/17299.py) : 오등큰수 [(문제)](https://www.acmicpc.net/problem/17299)
 # [LeetCode](https://leetcode.com/problemset/all/)
 ### Easy
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/two_sum.py) : 1. Two Sum [문제](https://leetcode.com/problems/two-sum/)
