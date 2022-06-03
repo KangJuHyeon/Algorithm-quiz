@@ -85,10 +85,11 @@ class Solution:
                     stack.pop()
                     count += 1
         return count
-        
+
 if __name__ == '__main__':
     print(Solution().solve(input()))
     # print(Solution().solve_two(input()))
+    
 # print(Solution().solve("()(((()())(())()))(())"))
 # print(Solution().solve("(((()(()()))(())()))(()())"))
 # print(Solution().solve_two("()(((()())(())()))(())"))
