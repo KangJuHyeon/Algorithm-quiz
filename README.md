@@ -71,6 +71,7 @@ This repository is for uploading algorithm quiz I solved.
    * [1011](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/1011.py) : Fly me to the Alpha Centauri [(문제)](https://www.acmicpc.net/problem/1011) 
 ### 기본 문제
    * [1003](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/1003.py) : 피보나치 함수 [(문제)](https://www.acmicpc.net/problem/1003)
+   * [2558](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/2558.py) : A+B-2 [(문제)](https://www.acmicpc.net/problem/2558)
 ## Algorithm_basic
 ### 200 - 자료구조 1
    * [10828](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/10828.py) : 스택 [(문제)](https://www.acmicpc.net/problem/10828)
@@ -86,6 +87,10 @@ This repository is for uploading algorithm quiz I solved.
    * [10799](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/10799.py) : 쇠막대기 [(문제)](https://www.acmicpc.net/problem/10799) 
    * [17298](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/17298.py) : 오큰수 [(문제)](https://www.acmicpc.net/problem/17298) 
    * [17299](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/17299.py) : 오등큰수 [(문제)](https://www.acmicpc.net/problem/17299)
+### 203 - 자료구조 1 (참고)
+   * [1935](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/1935.py) : 후위표기식2 [(문제)](https://www.acmicpc.net/problem/1935)
+   * [1918](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/1918.py) : 후위표기식 [(문제)](https://www.acmicpc.net/problem/1918)
+   * [10808](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/10808.py) : 알파벳 개수 [(문제)](https://www.acmicpc.net/problem/10808)
 # [LeetCode](https://leetcode.com/problemset/all/)
 ### Easy
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/two_sum.py) : 1. Two Sum [문제](https://leetcode.com/problems/two-sum/)
@@ -95,11 +100,14 @@ This repository is for uploading algorithm quiz I solved.
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/valid_parentheses.py) : 20. Valid Parentheses [문제](https://leetcode.com/problems/longest-common-prefix/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/mergo_two_sorted_lists.py) : 21. Merge Two Sorted Lists [문제](https://leetcode.com/problems/merge-two-sorted-lists/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/remove_duplicates_from_sorted_array.py) : 26. Remove Duplicates from Sorted Array [문제](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/removeElement.py) : 27. Remove Element [문제](https://leetcode.com/problems/remove-element/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/searchInsertPosition.py) : 35. Search Insert Position [문제](https://leetcode.com/problems/search-insert-position/)
 ### Medium
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/medium/add_two_numbers.py) : 2. Add Two Numbers [문제](https://leetcode.com/problems/add-two-numbers/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/medium/longest_substring_without_repeating_characters.py) : 3. Longest Substring Without Repeating Characters [문제](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
    * [문제 풀이](URL) : 5. Longest Palindromic Substring [문제](https://leetcode.com/problems/longest-palindromic-substring/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/medium/zigzag_conversion.py) : 6. Zigzag Conversion [문제](https://leetcode.com/problems/zigzag-conversion/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/medium/containerWithMostWater.py) : 11. Container With Most Water [문제](https://leetcode.com/problems/container-with-most-water/) 
 # [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
 ### Level 1
    * [짝수와 홀수](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/12937.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12937, "Programmers Link")
@@ -202,6 +210,9 @@ This repository is for uploading algorithm quiz I solved.
    * [카펫](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/42842.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42842, "Programmers Link")
 ### 7. BFS & DFS
    * [타겟넘버](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/43165.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/43165, "Programmers Link")
+   * [네트워크](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/43162.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/43162, "Programmers Link")
+### 8. 이분탐색
+   * [입국심사](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/43238.py "problem solving") : [문제](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/43238.py, "Programmers Link")
 ### Kakao
    * [[1차] 뉴스 클러스터링](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17677.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17677, "Programmers Link")
    * [[1차] 비밀지도](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17681.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17681, "Programmers Link")
@@ -224,7 +235,7 @@ This repository is for uploading algorithm quiz I solved.
    * [[3차] 압축](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17684.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17684, "Programmers Link")
    * [[3차] 파일명 정렬](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/17686.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17686, "Programmers Link")
    * [순위 검색](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/72412.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/72412, "Programmers Link")
-   * [거리두기 확인하기](URL "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/81302, "Programmers Link")
+   * [거리두기 확인하기](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/81302.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/81302, "Programmers Link")
    * [후보키](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/programmers/kakao/42890.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42890, "Programmers Link")
 
 
