@@ -28,9 +28,13 @@ print("정답", ' '.join(result[::-1]))
 
 # 문제풀이(2)
 from collections import Counter
+import sys 
 
-N = int(input())
-A = list(map(int, input().split()))
+sys.stdin = open("/Users/kangjuhyeon/Documents/my-project/Algorithm-quiz/baekjoon/Algorithm_basic/input.txt", "r")
+N = int(sys.stdin.readline())
+print("N", N)
+A = list(map(int, sys.stdin.readline().split()))
+print("A", A)
 count = Counter(A)
 result = [-1] * N
 stack = [0]
