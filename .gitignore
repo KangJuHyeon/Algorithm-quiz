@@ -1,8 +1,14 @@
 # global
 .vscode/
 
+# *.ignore
+*.DS_Store
+
 # codingTest
 codingTest/
 
 # practice\ code/
 practice\ code/JS
+
+# baekjoon
+baekjoon/Algorithm_basic/*txt
