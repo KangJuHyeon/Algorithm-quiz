@@ -102,6 +102,9 @@ This repository is for uploading algorithm quiz I solved.
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/remove_duplicates_from_sorted_array.py) : 26. Remove Duplicates from Sorted Array [문제](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/removeElement.py) : 27. Remove Element [문제](https://leetcode.com/problems/remove-element/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/searchInsertPosition.py) : 35. Search Insert Position [문제](https://leetcode.com/problems/search-insert-position/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/maximumSubarray.py) : 53. Maximum Subarray [문제](https://leetcode.com/problems/maximum-subarray/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/plusOne.py) : 66. Plus One [문제](https://leetcode.com/problems/plus-one/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/addBinary.py) :67. Add Binary [문제](https://leetcode.com/problems/add-binary/)
 ### Medium
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/medium/add_two_numbers.py) : 2. Add Two Numbers [문제](https://leetcode.com/problems/add-two-numbers/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/medium/longest_substring_without_repeating_characters.py) : 3. Longest Substring Without Repeating Characters [문제](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
