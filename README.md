@@ -96,7 +96,7 @@ This repository is for uploading algorithm quiz I solved.
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/twoSum.py) : 1. Two Sum [문제](https://leetcode.com/problems/two-sum/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/palindromeNumber.py) : 9. Palindrome Number [문제](https://leetcode.com/problems/palindrome-number/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/romanToInteger.py) : 13. Roman to Integer [문제](https://leetcode.com/problems/roman-to-integer/)
-   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/longestCommon_prefix.py) : 14. Longest Common Prefix [문제](https://leetcode.com/problems/valid-parentheses/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/longestCommonPrefix.py) : 14. Longest Common Prefix [문제](https://leetcode.com/problems/valid-parentheses/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/validParentheses.py) : 20. Valid Parentheses [문제](https://leetcode.com/problems/longest-common-prefix/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/mergoTwoSortedLists.py) : 21. Merge Two Sorted Lists [문제](https://leetcode.com/problems/merge-two-sorted-lists/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/removeDuplicatesFromSortedArray.py) : 26. Remove Duplicates from Sorted Array [문제](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
