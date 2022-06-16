@@ -1,4 +1,4 @@
-# 문제풀이(1)
+# 내가 푼 문제 풀이(1)
 from random import randint
 
 def generate_numbers(n):
@@ -21,7 +21,10 @@ def draw_winning_numbers():
 
 print(draw_winning_numbers())
 
-# 문제풀이(2)
+#################################################################################
+#################################################################################
+
+# 모범 답안
 from random import randint
 
 def generate_numbers(n):

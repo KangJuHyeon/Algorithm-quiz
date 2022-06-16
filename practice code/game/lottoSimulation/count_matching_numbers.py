@@ -1,5 +1,4 @@
-# 문제풀이(1)
-
+# 내가 푼 문제 풀이(1)
 def count_matching_numbers(list_1, list_2):
     # 코드를 작성하세요.
     lists = set(list_1) & set(list_2)
@@ -9,8 +8,10 @@ def count_matching_numbers(list_1, list_2):
 print(count_matching_numbers([2, 7, 11, 14, 25, 40], [2, 11, 13, 14, 30, 35]))
 print(count_matching_numbers([2, 7, 11, 14, 25, 40], [14]))
 
+#################################################################################
+#################################################################################
 
-# 문제풀이(2)
+# 모범 답안
 from random import randint
 
 def generate_numbers(n):

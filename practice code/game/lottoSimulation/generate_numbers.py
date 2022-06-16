@@ -1,4 +1,4 @@
-# 문제 풀이(1)
+# 내가 푼 문제 풀이(1)
 from random import randint
 
 def generate_numbers(n):
@@ -13,7 +13,10 @@ def generate_numbers(n):
     
 print(generate_numbers(6))
 
-# 문제 풀이(2)
+#################################################################################
+#################################################################################
+
+# 모범 답안
 from random import randint
 
 def generate_numbers(n):
