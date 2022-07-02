@@ -93,7 +93,7 @@ This repository is for uploading algorithm quiz I solved.
    * [10808](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/10808.py) : 알파벳 개수 [(문제)](https://www.acmicpc.net/problem/10808)
    * [10809](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/10809.py) : 알파벳 찾기(중복) [(문제)](https://www.acmicpc.net/problem/10809)
    * [10820](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/10820.py) : 문자열 분석 [(문제)](https://www.acmicpc.net/problem/10820)
-   * [2743](URL) : 단어 길이 재기 [(문제)](https://www.acmicpc.net/problem/2743)
+   * [2743](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/2743.py) : 단어 길이 재기 [(문제)](https://www.acmicpc.net/problem/2743)
 # [LeetCode](https://leetcode.com/problemset/all/)
 ### Easy
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/twoSum.py) : 1. Two Sum [문제](https://leetcode.com/problems/two-sum/)
