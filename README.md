@@ -107,7 +107,7 @@ This repository is for uploading algorithm quiz I solved.
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/searchInsertPosition.py) : 35. Search Insert Position [문제](https://leetcode.com/problems/search-insert-position/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/maximumSubarray.py) : 53. Maximum Subarray [문제](https://leetcode.com/problems/maximum-subarray/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/plusOne.py) : 66. Plus One [문제](https://leetcode.com/problems/plus-one/)
-   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/climbStairs.py) : 70. Climbing Stairs [문제](https://leetcode.com/problems/climbing-stairs/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/climbingStairs.py) : 70. Climbing Stairs [문제](https://leetcode.com/problems/climbing-stairs/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/removeDuplicatesFromSortedList.py) : 83. Remove Duplicates from Sorted List [문제](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/mergeSortedArray.py) : 88. Merge Sorted Array [문제](https://leetcode.com/problems/merge-sorted-array/)
 ### Medium
