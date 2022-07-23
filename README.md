@@ -113,6 +113,9 @@ This repository is for uploading algorithm quiz I solved.
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/climbingStairs.py) : 70. Climbing Stairs [문제](https://leetcode.com/problems/climbing-stairs/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/removeDuplicatesFromSortedList.py) : 83. Remove Duplicates from Sorted List [문제](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/mergeSortedArray.py) : 88. Merge Sorted Array [문제](https://leetcode.com/problems/merge-sorted-array/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/binaryTreePreorderTraversal.py) : 144. Binary Tree Preorder Traversal [문제](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/duplicateEmails.sql) : 182. Duplicate Emails [문제](https://leetcode.com/problems/duplicate-emails/)
+   * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/customersWhoNeverOrder.sql) : 183. Customers Who Never Order [문제](https://leetcode.com/problems/customers-who-never-order/)
 ### Medium
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/medium/addTwoNumbers.py) : 2. Add Two Numbers [문제](https://leetcode.com/problems/add-two-numbers/)
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/medium/longestSubstringWithoutRepeatingCharacters.py) : 3. Longest Substring Without Repeating Characters [문제](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
