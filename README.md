@@ -97,6 +97,11 @@ This repository is for uploading algorithm quiz I solved.
    * [11655](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/11655.py) : ROT13 [(문제)](https://www.acmicpc.net/problem/11655)
    * [10824](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/10824.py) : 네 수 [(문제)](https://www.acmicpc.net/problem/10824)
    * [11656](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/11656.py) : 접미사 배열 [(문제)](https://www.acmicpc.net/problem/11656)
+### 300 수학 1
+   * [2609](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/2609.py) : 최대공약수와 최소공배수 [(문제)](https://www.acmicpc.net/problem/2609) 
+   * [1934](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/1934.py) : 최소공배수 [(문제)](https://www.acmicpc.net/problem/1934) 
+   * [1978](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/1978.py) : 소수 찾기 [(문제)](https://www.acmicpc.net/problem/1978) 
+   * [1929](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/baekjoon/Algorithm_basic/1929.py) : 소수 구하기 [(문제)](https://www.acmicpc.net/problem/1929)
 # [LeetCode](https://leetcode.com/problemset/all/)
 ### Easy
    * [문제 풀이](https://github.com/KangJuHyeon/Algorithm-quiz/blob/master/leetcode/easy/twoSum.py) : 1. Two Sum [문제](https://leetcode.com/problems/two-sum/)
